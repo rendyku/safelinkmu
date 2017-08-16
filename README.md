@@ -1,0 +1,2 @@
+# safelinkmu
+link safelink blog
